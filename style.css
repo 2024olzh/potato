@@ -1,0 +1,7 @@
+/* Custom CSS for the workshop page */
+body {
+    /* Apply the 'Jua' font for a cute, handwritten feel */
+    font-family: 'Jua', sans-serif;
+    /* Softer, pastel background color */
+    background-color: #ffebee; /* Light pink */
+}
